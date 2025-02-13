@@ -2,8 +2,11 @@
 Personal Portfolio
 
 How to Run the Project Locally
+
 1.Clone the Repository:git clone https://github.com/Anojananoj2000/portfolio.git
+
 2.Navigate to the Project Directory:cd portfolio
+
 3.Open the index.html File:Simply open index.html in your preferred web browser to view the portfolio.
 
 Key Features
@@ -21,7 +24,7 @@ Key Features
 6.Contact Form: Allows visitors to reach out to me directly.
 
 
-hallenges Faced and How I Overcame Them
+Challenges Faced and How I Overcame Them
 
 1.Responsive Layout: Initially, some sections were misaligned on different screen sizes. I used Bootstrap’s grid system and media queries to ensure consistency.
 
